@@ -1,0 +1,245 @@
+/* --------------- COMMON ------------------- */
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    background-color: #e5e5e5;
+
+}
+
+footer {
+    background-color: #ff8c00;
+    color: #ffffff;
+    font-size: 12px;
+    padding: 15px 0;
+    margin-top: 50px;
+    /*position: absolute;*/
+}
+
+footer .col-sm-4 {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+}
+
+footer .fa {
+    margin-top: 10px;
+}
+
+/* Navbar */
+.apollo-navbar {
+    background-color: #ff8c00;
+    color: #ffffff;
+}
+/*
+.apollo-navbar a {
+    color: #ffffff;
+    font-size: 24px;
+    width: 100%;
+    height: auto;
+}
+*/
+/*.apollo-navbar img {
+    width: 20%;
+    height: auto;
+}*/
+
+.jumbotron {
+    height: 200px;
+    display: flex;
+    align-items: center;
+    background-color: #CECECE;
+    text-shadow: 0.25px 0.25px 0.25px #000000;
+}
+
+/* navbar end */
+
+.jumbotron h1 {
+    text-align: center !important;
+}
+
+.jumbotron  p {
+    text-align: center !important;
+}
+
+/*.col-md-4 img {
+    margin: 0 30px 30px;
+    width: 350px;
+    height: auto;
+}*/
+
+/* meeting!!!!! CECECE */
+.allando-card .card {
+     background-color: #CECECE;
+     box-shadow: #888888 1px 2px 3px;
+ }
+
+.allando-card .card-block {
+    padding-top: 5px;
+    text-align: center;
+}
+
+.allando-card img {
+    margin: 0 30px 30px;
+    width: 350px;
+    height: auto;
+}
+
+figure {
+    float: left;
+}
+
+figure > img {
+    max-width: 250px;
+}
+
+/*
+.btn.btn-primary {
+    border-radius: 2px;
+    border: 0;
+    color: #fbd1d5;
+    text-shadow: none;
+    background-color: #ffffff;
+}
+
+.btn.btn-primary:hover {
+    color: #ffffff;
+    background-color: #fbd1d5;
+}
+
+.btn-secondary {
+    background-color: #E8DFE0;
+    color: #ffffff;
+    margin: 0 0 30px;
+}
+*/
+
+/* --- COMMON END --- */
+
+/*-----------FRONTPAGE-----------*/
+
+/* Carousel */
+/* NOTE: .active was here! */
+.carousel, .item {
+    height: 100%;
+    margin-bottom: 60px;
+}
+
+.carousel-inner {
+    height: 100%;
+}
+
+.fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+/* Cases */
+#caseContainer .col-lg-6 img {
+    background-color: white;
+    width: 800px;
+    height: auto;
+    margin: 0 0 30px;
+    border: solid white;
+}
+
+/* ---FRONTPAGE END--- */
+
+/* -----------Products------------*/
+
+/* index */
+
+.list-style-buttons {
+    margin-bottom: 5px;
+    float: right;
+}
+
+.list-style-buttons .fa-bars {
+    margin-right: 5px;
+}
+
+.gridView {
+    align-items: center;
+    margin: 10px 0;
+}
+
+.gridView .col-md-3 img {
+    margin: 0 30px 30px;
+    width: 250px;
+    height: auto;
+}
+
+/* links */
+#listView a {
+    margin-bottom: 10px;
+    padding: 10px 0;
+    background-color: #CECECE;
+    color: #000000;
+    box-shadow: #888888 1px 2px 3px;
+}
+
+/* images */
+#listView  img {
+    height: auto;
+}
+
+/* Everything in section */
+#listView section {
+    float: right;
+}
+
+#listView .row-md-8 {
+    margin: 20px 0;
+    text-align: left;
+    float: left;
+}
+
+/* Product site */
+#productActual {
+    text-align: left;
+    width: auto;
+    margin: 10px;
+}
+
+#productActual p {
+    font-weight: bold;
+}
+
+#productSpecs #productVariants {
+    margin: 10px 0;
+    background-color: #CECECE;
+}
+
+
+/* ----------- Contact ------------*/
+
+/* Personal contact info */
+#personalPortraits {
+    background-color: #ffffff;
+}
+
+#personalPortraits img {
+    height: 180px;
+    width: auto;
+}
+
+#personalPortraits section {
+    float: left;
+    width: auto;
+    text-align: left;
+}
+

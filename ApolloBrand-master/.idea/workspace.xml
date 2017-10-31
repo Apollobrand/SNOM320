@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f4d067c-e10b-4b6c-9ff9-24e74b5eaf19" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/class/view/admin/apitest.php" afterPath="$PROJECT_DIR$/application/class/view/admin/apitest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/facade/categoryFacade.php" afterPath="$PROJECT_DIR$/application/facade/categoryFacade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/class/model/productSuperModel.php" afterPath="$PROJECT_DIR$/application/class/model/productSuperModel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/class/view/admin/addProduct.php" afterPath="$PROJECT_DIR$/application/class/view/admin/addProduct.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/template/adminAddProduct.html.twig" afterPath="$PROJECT_DIR$/application/template/adminAddProduct.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/js/createProduct.js" afterPath="$PROJECT_DIR$/public_html/js/createProduct.js" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" executionDataType="PHAR" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <pharPath>$PROJECT_DIR$/composer.phar</pharPath>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="apollobrand" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="categoryFacade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/facade/categoryFacade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="20" column="53" lean-forward="false" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="prodFacade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/facade/prodFacade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1008">
+              <caret line="130" column="0" lean-forward="true" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;td&gt;&lt;input type=&quot;checkbox&quot;&gt;&lt;/td&gt;</find>
+      <find>news</find>
+      <find>vari</find>
+      <find>public/img</find>
+      <find>test1</find>
+      <find>users</find>
+      <find>user_id</find>
+      <find>topbanner</find>
+      <find>topbann</find>
+      <find>grid</find>
+      <find>&lt;?php</find>
+      <find>this</find>
+      <find>require</find>
+      <find>file</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="anders_view_branch" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/models/hoseModel.php" />
+        <option value="$PROJECT_DIR$/models/lighting.php" />
+        <option value="$PROJECT_DIR$/models/generatorModel.php" />
+        <option value="$PROJECT_DIR$/models/waterCanonModel.php" />
+        <option value="$PROJECT_DIR$/models/highPressureNozzles.php" />
+        <option value="$PROJECT_DIR$/models/lowPressureNozzleModel.php" />
+        <option value="$PROJECT_DIR$/models/monitorModel.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/application/template/frontpage.html.twig" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/application/class/view/product/index.html.twig" />
+        <option value="$PROJECT_DIR$/application/class/view/product/Products.html.twig" />
+        <option value="$PROJECT_DIR$/application/class/view/product/ProductSite.html.twig" />
+        <option value="$PROJECT_DIR$/application/class/controller/ProductSite.php" />
+        <option value="$PROJECT_DIR$/application/class/view/contact/index.html.twig" />
+        <option value="$PROJECT_DIR$/application/class/view/admin/editProduct.html.twig" />
+        <option value="$PROJECT_DIR$/application/class/view/admin/overview.html.twig" />
+        <option value="$PROJECT_DIR$/application/class/view/admin/addArticle.html.twig" />
+        <option value="$PROJECT_DIR$/application/class/view/admin/addProduct.html.twig" />
+        <option value="$PROJECT_DIR$/application/class/view/admin/editArticle.html.twig" />
+        <option value="$PROJECT_DIR$/application/class/view/admin/index.html.twig" />
+        <option value="$PROJECT_DIR$/application/class/model/caseModel.php" />
+        <option value="$PROJECT_DIR$/application/class/model/newsModel.php" />
+        <option value="$PROJECT_DIR$/application/handler/caseHandler.php" />
+        <option value="$PROJECT_DIR$/application/handler/productHandler.php" />
+        <option value="$PROJECT_DIR$/application/facade/productFacade.php" />
+        <option value="$PROJECT_DIR$/faj/fa.php" />
+        <option value="$PROJECT_DIR$/application/template/adminHead.html" />
+        <option value="$PROJECT_DIR$/application/template/admintOverviewProduct.html.twig" />
+        <option value="$PROJECT_DIR$/application/template/adminNavbar.html.twig" />
+        <option value="$PROJECT_DIR$/application/class/view/admin/overviewCase.php" />
+        <option value="$PROJECT_DIR$/application/class/view/admin/overviewNews.php" />
+        <option value="$PROJECT_DIR$/application/class/view/admin/addCase.php" />
+        <option value="$PROJECT_DIR$/application/template/adminEditProduct.html.twig" />
+        <option value="$PROJECT_DIR$/application/template/adminOverviewCase.html.twig" />
+        <option value="$PROJECT_DIR$/application/template/adminOverviewNews.html.twig" />
+        <option value="$PROJECT_DIR$/application/template/adminAddCase.html.twig" />
+        <option value="$PROJECT_DIR$/application/template/adminAddNews.html.twig" />
+        <option value="$PROJECT_DIR$/application/class/model/productModel.php" />
+        <option value="$PROJECT_DIR$/application/class/model/pumpModel.php" />
+        <option value="$PROJECT_DIR$/public_html/js/adminScriptActual.js" />
+        <option value="$PROJECT_DIR$/application/template/adminOverviewProduct.html.twig" />
+        <option value="$PROJECT_DIR$/application/class/model/productPictureModel.php" />
+        <option value="$PROJECT_DIR$/application/class/model/productVariantModel.php" />
+        <option value="$PROJECT_DIR$/application/class/model/ProductImageModel.php" />
+        <option value="$PROJECT_DIR$/application/facade/prodFacade.php" />
+        <option value="$PROJECT_DIR$/application/facade/categoryFacade.php" />
+        <option value="$PROJECT_DIR$/application/class/view/admin/apitest.php" />
+        <option value="$PROJECT_DIR$/application/class/model/customExpressionModel.php" />
+        <option value="$PROJECT_DIR$/application/class/model/productCustomDataTypeModel.php" />
+        <option value="$PROJECT_DIR$/application/facade/ProductCustomDataTypeFacade.php" />
+        <option value="$PROJECT_DIR$/application/facade/categoryFacade.php" />
+        <option value="$PROJECT_DIR$/public_html/js/createProduct.js" />
+        <option value="$PROJECT_DIR$/application/class/view/admin/overviewProduct.php" />
+        <option value="$PROJECT_DIR$/application/class/model/productSuperModel.php" />
+        <option value="$PROJECT_DIR$/application/template/adminAddProduct.html.twig" />
+        <option value="$PROJECT_DIR$/application/class/view/admin/addProduct.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP5">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/codacy/coverage" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/google/recaptcha" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/guzzle/guzzle" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/phpunit/phpunit-selenium" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/gitonomy/gitlib" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/satooshi/php-coveralls" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/phpmyadmin/coding-standard" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/phpmyadmin/motranslator" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/phpmyadmin/sql-parser" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/composer" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/phpmyadmin/shapefile" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/tecnickcom/tcpdf" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/../../phpmyadmin/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/.idea/inspectionProfiles" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="27" />
+    <option name="width" value="683" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="apollobrand" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apollobrand" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="apollobrand" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apollobrand" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="apollobrand" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apollobrand" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="class" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="apollobrand" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apollobrand" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="class" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="model" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="apollobrand" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apollobrand" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="class" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="apollobrand" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apollobrand" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="class" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="apollobrand" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apollobrand" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="facade" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="apollobrand" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apollobrand" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="template" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="apollobrand" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apollobrand" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public_html" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="/usr/bin/node" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../twigTest/twigger" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/application/template" />
+      <recent name="$PROJECT_DIR$/application/class/view/admin" />
+      <recent name="$PROJECT_DIR$/models" />
+      <recent name="$PROJECT_DIR$/views/admin" />
+      <recent name="$PROJECT_DIR$/public/css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/application/template/html" />
+      <recent name="$PROJECT_DIR$/application/facade" />
+      <recent name="$PROJECT_DIR$/application/template" />
+      <recent name="$PROJECT_DIR$/application/database" />
+      <recent name="$PROJECT_DIR$/application/class" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f4d067c-e10b-4b6c-9ff9-24e74b5eaf19" name="Default" comment="" />
+      <created>1504595364978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1504595364978</updated>
+      <workItem from="1504595386291" duration="11655000" />
+      <workItem from="1504762965849" duration="1183000" />
+      <workItem from="1504766126018" duration="126000" />
+      <workItem from="1504766292038" duration="21478000" />
+      <workItem from="1504854722711" duration="2587000" />
+      <workItem from="1504859709543" duration="1091000" />
+      <workItem from="1504861231236" duration="69000" />
+      <workItem from="1505108567444" duration="112000" />
+      <workItem from="1505111563696" duration="17594000" />
+      <workItem from="1505200918490" duration="7057000" />
+      <workItem from="1505212123963" duration="4706000" />
+      <workItem from="1505367535349" duration="380000" />
+      <workItem from="1505370713464" duration="268000" />
+      <workItem from="1505803487644" duration="921000" />
+      <workItem from="1505972436849" duration="955000" />
+      <workItem from="1505976119817" duration="1050000" />
+      <workItem from="1505977895489" duration="980000" />
+      <workItem from="1506064077337" duration="8358000" />
+      <workItem from="1506322772052" duration="1813000" />
+      <workItem from="1506331978798" duration="96000" />
+      <workItem from="1506332712980" duration="269000" />
+      <workItem from="1506344942132" duration="1455000" />
+      <workItem from="1506409667353" duration="716000" />
+      <workItem from="1506416822472" duration="9467000" />
+      <workItem from="1506519091650" duration="2984000" />
+      <workItem from="1506523709990" duration="14000" />
+      <workItem from="1506523733699" duration="813000" />
+      <workItem from="1506577375497" duration="3197000" />
+      <workItem from="1506926151970" duration="6236000" />
+      <workItem from="1507159454519" duration="196000" />
+      <workItem from="1507152469547" duration="2133000" />
+      <workItem from="1507193899756" duration="1207000" />
+      <workItem from="1507200931440" duration="599000" />
+      <workItem from="1507453192959" duration="933000" />
+      <workItem from="1507459309589" duration="1349000" />
+      <workItem from="1507472029803" duration="3040000" />
+      <workItem from="1508089986270" duration="1200000" />
+      <workItem from="1508132397671" duration="1222000" />
+      <workItem from="1508135804086" duration="5441000" />
+      <workItem from="1508145464087" duration="12933000" />
+      <workItem from="1508162346870" duration="607000" />
+      <workItem from="1508182640469" duration="739000" />
+      <workItem from="1508218728746" duration="1790000" />
+      <workItem from="1508221962833" duration="11436000" />
+      <workItem from="1508304420260" duration="2284000" />
+      <workItem from="1508308289489" duration="1580000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="179227000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1366" height="741" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2715959" sideWeight="0.4936508" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24524158" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32755905" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24963397" sideWeight="0.5063492" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32755905" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2635432" sideWeight="0.4936508" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32698414" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24524158" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24963397" sideWeight="0.5063492" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/class/model/clutchModel.php" />
+    <entry file="file://$PROJECT_DIR$/application/class/model/newsModel.php" />
+    <entry file="file://$PROJECT_DIR$/application/class/model/caseModel.php" />
+    <entry file="file://$PROJECT_DIR$/application/class/view/product/index.html.twig" />
+    <entry file="file://$PROJECT_DIR$/application/handler/productHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/facade/productFacade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="85" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="86" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faj/fa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/template/adminHead.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/template/adminNavbar.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/class/view/admin/editNews.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/class/view/admin/editCase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/class/view/admin/editProduct.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/class/view/admin/overviewCase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/class/view/admin/overviewNews.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="10" lean-forward="false" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/template/adminEditCase.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/template/adminEditNews.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/template/adminEditProduct.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/template/adminOverviewNews.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/template/adminOverviewCase.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/class/view/product/products.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/class/view/product/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/class/view/product/productSite.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/class/view/admin/addCase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/class/view/admin/addNews.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/template/adminAddCase.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="7" lean-forward="false" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/template/adminAddNews.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+          <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          <caret line="26" column="10" lean-forward="false" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/class/model/productModel.php" />
+    <entry file="file://$PROJECT_DIR$/application/class/model/pumpModel.php" />
+    <entry file="file://$PROJECT_DIR$/public_html/js/adminTalbeScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/adminScriptActual.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/template/adminOverviewProduct.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../etc/php.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="196" column="48" lean-forward="false" selection-start-line="196" selection-start-column="44" selection-end-line="196" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/class/model/productPictureModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/class/model/ProductImageModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/class/model/productVariantModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/class/view/admin/apitest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/class/view/admin/addProductTemp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/class/model/customExpressionModel.php" />
+    <entry file="file://$PROJECT_DIR$/application/facade/customProductDataFacade.php" />
+    <entry file="file://$PROJECT_DIR$/application/facade/ProductCustomDataTypeFacade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/class/model/productCustomDataTypeModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/class/view/admin/overviewProduct.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="37" column="17" lean-forward="true" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/createProduct.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="5" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/facade/categoryFacade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="26" column="28" lean-forward="false" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/class/model/categorySuperModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/class/view/admin/apitest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="135" column="3" lean-forward="false" selection-start-line="130" selection-start-column="3" selection-end-line="135" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/facade/prodFacade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="130" column="0" lean-forward="true" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/facade/categoryFacade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="53" lean-forward="false" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/template/adminAddProduct.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="103" column="49" lean-forward="true" selection-start-line="103" selection-start-column="49" selection-end-line="103" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/class/view/admin/addProduct.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/facade/prodFacade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="114" column="75" lean-forward="true" selection-start-line="114" selection-start-column="75" selection-end-line="114" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

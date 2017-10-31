@@ -1,0 +1,34 @@
+{% include 'head.html' %}
+<body>
+{% include 'navbar.html.twig' %}
+<!-- Introduction to page content -->
+<div class="jumbotron">
+    <div class="container">
+        <h1>Produkter</h1>
+        <p> Her hos Apollo tilbyder vi produkter inden for en stor række af grupper og mærker.</p>
+    </div>
+</div>
+
+<!-- Page content -->
+<section class="gridView col-md-12">
+    <div class="container-fluid allando-card">
+        <div class="row">
+            {% for i in forCategory %}
+            <div class="col-md-3">
+                <a href="{{ i.categorySource }}" class="btn">
+                    <div class="card">
+                        <div class="card-block">
+                            <h3>{{ i.categoryTitle }}</h3>
+                        </div>
+                        <div class="card-img-bottom">
+                            <img src="{{ i.categoryImage }}" alt="caseOne" title="caseOne"/>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+{% include 'footer.html' %}
+</body>

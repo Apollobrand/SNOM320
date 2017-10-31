@@ -1,0 +1,66 @@
+{% include 'head.html' %}
+<body>
+{% include 'navbar.html.twig' %}
+
+<section class="container-fluid">
+    <!--- Picture --->
+    <div class="row-md-4">
+        <figure>
+            <img src="{{ productImage }}" alt="Product">
+        </figure>
+    </div>
+    <section>
+        <div class="row-md-4">
+            <h3>{{ productTitle }}</h3>
+            <p>
+                Fabrikant: {{ productMake }}
+                <br>Varenummer: {{ productSerial }}
+            </p>
+            <div>
+                Beskrivelse: {{ productDescription }}
+            </div>
+        </div>
+    </section>
+</section>
+
+<section class="container-fluid">
+    <!--- SPECS --->
+    <div id="productSpecs">
+        <h2>Specifikationer</h2>
+        <div class="table-responsive">
+            <table class="table">
+                {% for i in forSpecs %}
+                    <tbody>
+                    <tr>
+                        <th>{{ i.category }}</th>
+                        <td>{{ i.value }}</td>
+                    </tr>
+                    </tbody>
+                {% endfor %}
+            </table>
+        </div>
+    </div>
+
+    <!--- VARIANTS --->
+    <div id="productVariants">
+        <h2>Varianter</h2>
+        <div class="table-responsive">
+            <table class="table">
+                {% for i in forVari %}
+                    <thead>
+                    <tr>
+                        <th>{{ i.category }}</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td>{{ i.value }}</td>
+                    </tr>
+                    </tbody>
+                {% endfor %}
+            </table>
+        </div>
+    </div>
+</section>
+{% include 'footer.html' %}
+</body>

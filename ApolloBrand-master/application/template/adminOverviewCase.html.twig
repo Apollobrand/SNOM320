@@ -1,0 +1,30 @@
+{% include 'adminHead.html' %}
+<body>
+{% include 'adminNavbar.html.twig' %}
+
+<section class="container-fluid">
+    <table class="table table-striped">
+        <thead>
+        <tr>
+            <th></th>
+            <th><button id="admin-prd-btn">Titel</button></th>
+            <th><button id="admin-nvn-btn">Forfatter</button></th>
+            <th><button id="admin-mrk-btn">Dato</button></th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for i in forNews %}
+            <tr> <!-- Must be able to view, add and delete dynamic content with php -->
+                <td><input type="checkbox" title="item"></td>
+                <td>{{ i.caseTitle }}</td>
+                <td>{{ i.caseAuthor }}</td>
+                <td>{{ i.caseDate }}</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</section>
+<!-- MAIN CONTENT END -->
+
+{% include 'adminFooter.html' %}
+</body>

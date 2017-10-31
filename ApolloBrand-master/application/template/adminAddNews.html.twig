@@ -1,0 +1,28 @@
+{% include '../template/adminHead.html' %}
+<body>
+{% include '../template/adminNavbar.html.twig' %}
+
+<!-- Main content -->
+<section class="container-fluid">
+    <div class="admin-CaNe-info">
+        <h1>General info</h1>
+        <form action="../handler/newsHandler.php" method="post">
+            <div class="row-md-4">
+                <div class="row-md-2"><h3>Case Overskrift:</h3></div>
+                <div class="row-md-2"><input type="text" name="case-headline" title="case-headline"></div>
+            </div>
+            <div class="row-md-4">
+                <div class="row-md-2"><h3>Forfatter:</h3></div>
+                <div class="row-md-2"><input type="text" name="Author-name" title="Author-name"></div>
+            </div>
+        </form>
+    </div>
+    <div class="admin-CaNe-text">
+        <h1>Artikel</h1>
+        <form action="../handler/newsHandler.php">
+            <div class="col-12-md"><input type="text" name="case-article" title="case-title"></div>
+        </form>
+    </div>
+</section>
+{% include '../template/adminFooter.html' %}
+</body>

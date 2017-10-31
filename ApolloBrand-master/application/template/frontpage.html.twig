@@ -1,0 +1,94 @@
+{% include 'head.html' %}
+<body>
+{% include 'navbar.html.twig' %}
+
+<!-- Carousel
+================================================== -->
+<header id="myCarousel" class="carousel slide">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner">
+        <div class="item active">
+            {% for item in carouselArray %}
+            <div class="fill" style="background-image:url({{ item.carouselImage }});"></div>
+            <div class="carousel-caption">
+                <h1>{{ item.category }}</h1>
+                <p>{{ item.caption }}</p>
+                <p><a class="btn btn-lg btn-primary" href="{{ item.linkToPage }}">Læs mere</a></p>
+            </div>
+            </a>
+            {% endfor %}
+        </div>
+    </div>
+
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</header>
+<!-- /.carousel -->
+
+<!--- Cases --->
+<section class="container-fluid allando-card" id="caseContainer">
+    <h1> Cases </h1>
+    <div class="row">
+        <div class="col-md-4">
+            <a href="{% linkToPage %}" class="btn">
+                <div class="card">
+                    <div class="card-block">
+                        <h3>{% title %}</h3>
+                    </div>
+                    <div class="card-img-bottom">
+                        <img src="{% pathToImage %}" alt="caseOne" title="caseOne"/>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col-md-4">
+            <a href="{% linkToPage %}" class="btn">
+                <div class="card">
+                    <div class="card-block">
+                        <h3>{% title %}</h3>
+                    </div>
+                    <div class="card-img-bottom">
+                        <img src="{% pathToImage %}" alt="caseTwo" title="caseTwo"/>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col-md-4">
+            <a href="{% linkToPage %}" class="btn">
+                <div class="card">
+                    <div class="card-block">
+                        <h3>{% title %}</h3>
+                    </div>
+                    <div class="card-img-bottom">
+                        <img src="{% pathToImage %}" alt="caseThree" title="caseThree"/>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+</section>
+
+<!--- TODO: Service + instant contact --->
+<section class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <img src="#" alt="Service gangti">
+        </div>
+        <div class="col-md-6">
+            <img src="#" alt="Kontakt os">
+        </div>
+    </div>
+</section>
+{% include '../../application/template/footer.html' %}
+</body>

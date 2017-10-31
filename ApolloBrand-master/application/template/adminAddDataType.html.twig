@@ -1,0 +1,27 @@
+{% include 'adminHead.html' %}
+<body>
+{% include 'adminNavbar.html.twig' %}
+
+<!-- Main content -->
+<section class="container-fluid">
+    <form id="tester" method="post" action="addDataType.php" enctype="multipart/form-data">
+        <div class="admin-prod-geninfo">
+            <h1>DataType</h1>
+            <div class="row-md-4">
+                <div class="row-md-2"><h3>Tilføj ny datatype</h3></div>
+                <span class="row-md-2"><input type="text" name="dataTypeTitle" title="dataTypeTitle"></span>
+            </div>
+        </div>
+        <input type="submit" value="addNewType" name="addNewType">
+        <input type="reset">
+    </form>
+    {#<div class="col-md-4">
+        {% for i in dataTypeList %}
+            <h3>{{ i }}</h3><br>
+        {% endfor %}
+    </div>#}
+</section>
+
+<!-- MAIN CONTENT END -->
+{% include 'adminFooter.html' %}
+</body>

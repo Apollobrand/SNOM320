@@ -1,0 +1,35 @@
+{% include 'adminHead.html' %}
+<body>
+{% include 'adminNavbar.html.twig' %}
+
+<section class="container-fluid">
+    <!-- TODO: Implement prodSearch -->
+    <table class="table table-striped">
+        <thead>
+        <tr>
+            <th></th>
+            <th><button id="admin-prd-btn">Vare nummer</button></th>
+            <th><button id="admin-nvn-btn">Vare navn</button></th>
+            <th><button id="admin-mrk-btn">Vare mærke</button></th>
+            <th><button id="admin-kat-btn">Kategori</button></th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for i in 'prodArray' %}
+            <tr>
+                <!-- TODO: Must be able to view, add and delete dynamic content with php -->
+                <td><input type="checkbox" title="productCheckBox"></td>
+                <td>{{ i.pid }}</td>
+                <td>{{ i.pt }}</td>
+                <td>{{ i.pin }}</td>
+                <td>{{ i.pcn }}</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</section>
+<!-- MAIN CONTENT END -->
+
+
+{% include 'adminFooter.html' %}
+</body>

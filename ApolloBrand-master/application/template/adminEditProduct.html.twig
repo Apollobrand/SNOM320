@@ -1,0 +1,77 @@
+
+{% require '../template/adminHead.html.twig' %}
+<body>
+{% require '../template/adminNavbar.html.twig' %}
+
+<!-- Main content -->
+<section class="container-fluid">
+    <div class="admin-prod-geninfo">
+        <h1>General info</h1>
+        <form action="../handler/productHandler.php" method="post">
+            <div class="row-md-4">
+                <div class="row-md-2"><h3>Produkt titel:</h3></div>
+                <div class="row-md-2"><input type="text" name="prod-title" title="prod-name"></div>
+            </div>
+            <div class="row-md-4">
+                <div class="row-md-2"><h3>Mærke:</h3></div> <!-- todo: auto complete? -->
+                <div class="row-md-2"><input type="text" name="prod-make" title="prod-make"></div>
+            </div>
+            <div class="row-md-4">
+                <div class="row-md-2"><h3>Beskrivelse:</h3></div>
+                <div class="row-md-2"><input type="text" name="prod-desc" title="prod-desc"></div>
+            </div>
+        </form>
+    </div>
+    <div class="admin-prod-specs">
+        <h1>Specefikationer</h1>
+        <button class="btn btn-primary addRow">Add Row</button>
+        <button class="btn btn-danger deleteRow">Delete Row</button>
+        <button class="btn btn-primary addCol">Add Col</button>
+        <button class="btn btn-danger deleteCol">Delete Col</button>
+        <form>
+            <table class="table table-striped">
+                <thead>
+                <tr>
+                    <th><input type="text" name="spec-head-1" title="spec-head-1" placeholder="Emne"></th>
+                    <th><input type="text" name="spec-head-2" title="spec-head-2" placeholder="Emne"></th>
+                    <th><input type="text" name="spec-head-3" title="spec-head-3" placeholder="Emne"></th>
+                </thead>
+                <tbody>
+                <tr>
+                    <td><input type="text" name="spec-data-1" title="spec-data-1" placeholder="Data"></td>
+                    <td><input type="text" name="spec-data-2" title="spec-data-2" placeholder="Data"></td>
+                    <td><input type="text" name="spec-data-3" title="spec-data-3" placeholder="Data"></td>
+                </tr>
+                </tbody>
+            </table>
+        </form>
+    </div>
+    <div class="admin-prod-variants">
+        <h1>Varianter</h1>
+        <button class="btn btn-primary addRow">Add Row</button>
+        <button class="btn btn-danger deleteRow">Delete Row</button>
+        <button class="btn btn-primary addCol">Add Col</button>
+        <button class="btn btn-danger deleteCol">Delete Col</button>
+        <form>
+            <table class="table table-striped">
+                <thead>
+                <tr>
+                    <th><input type="text" name="vari-head-1" title="vari-head-1" placeholder="Emne"></th>
+                    <th><input type="text" name="vari-head-2" title="vari-head-2" placeholder="Emne"></th>
+                    <th><input type="text" name="vari-head-3" title="vari-head-3" placeholder="Emne"></th>
+                </thead>
+                <tbody>
+                <tr>
+                    <td><input type="text" name="vari-data-1" title="vari-data-1" placeholder="Data"></td>
+                    <td><input type="text" name="vari-data-2" title="vari-data-2" placeholder="Data"></td>
+                    <td><input type="text" name="spec-data-3" title="vari-data-3" placeholder="Data"></td>
+                </tr>
+                </tbody>
+            </table>
+        </form>
+    </div>
+</section>
+<!-- MAIN CONTENT END -->
+
+{% require '../template/adminFooter.html.twig' %}
+</body>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/vendor/.idea/inspectionProfiles" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/twig/twig" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="bootstrap" level="application" />
+    <orderEntry type="library" name="jquery" level="application" />
+    <orderEntry type="library" name="html5shiv" level="application" />
+    <orderEntry type="library" name="respond" level="application" />
+    <orderEntry type="library" name="jquery-3.2.1.slim" level="application" />
+    <orderEntry type="library" name="popper" level="application" />
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://$MODULE_DIR$/composer.phar/" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://$MODULE_DIR$/composer.phar/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PHP" type="php">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/.idea/inspectionProfiles" />
+          <root url="file://$MODULE_DIR$/vendor/composer" />
+          <root url="file://$MODULE_DIR$/vendor/twig/twig" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/codacy/coverage" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/composer" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/doctrine/instantiator" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/gitonomy/gitlib" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/google/recaptcha" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/guzzle/guzzle" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/phpdocumentor/reflection-common" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/phpdocumentor/reflection-docblock" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/phpdocumentor/type-resolver" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/phpmyadmin/coding-standard" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/phpmyadmin/motranslator" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/phpmyadmin/shapefile" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/phpmyadmin/sql-parser" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/phpseclib/phpseclib" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/phpspec/prophecy" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/phpunit/php-code-coverage" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/phpunit/php-file-iterator" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/phpunit/php-text-template" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/phpunit/php-timer" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/phpunit/php-token-stream" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/phpunit/phpunit" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/phpunit/phpunit-mock-objects" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/phpunit/phpunit-selenium" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/psr/cache" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/psr/log" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/satooshi/php-coveralls" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/sebastian/comparator" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/sebastian/diff" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/sebastian/environment" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/sebastian/exporter" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/sebastian/global-state" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/sebastian/recursion-context" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/sebastian/version" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/squizlabs/php_codesniffer" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/symfony/cache" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/symfony/config" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/symfony/console" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/symfony/debug" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/symfony/event-dispatcher" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/symfony/expression-language" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/symfony/filesystem" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/symfony/polyfill-mbstring" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/symfony/process" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/symfony/stopwatch" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/symfony/yaml" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/tecnickcom/tcpdf" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/webmozart/assert" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/.idea/inspectionProfiles" />
+          <root url="file://$MODULE_DIR$/vendor/composer" />
+          <root url="file://$MODULE_DIR$/vendor/twig/twig" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/codacy/coverage" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/composer" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/doctrine/instantiator" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/gitonomy/gitlib" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/google/recaptcha" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/guzzle/guzzle" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/phpdocumentor/reflection-common" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/phpdocumentor/reflection-docblock" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/phpdocumentor/type-resolver" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/phpmyadmin/coding-standard" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/phpmyadmin/motranslator" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/phpmyadmin/shapefile" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/phpmyadmin/sql-parser" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/phpseclib/phpseclib" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/phpspec/prophecy" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/phpunit/php-code-coverage" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/phpunit/php-file-iterator" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/phpunit/php-text-template" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/phpunit/php-timer" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/phpunit/php-token-stream" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/phpunit/phpunit" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/phpunit/phpunit-mock-objects" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/phpunit/phpunit-selenium" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/psr/cache" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/psr/log" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/satooshi/php-coveralls" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/sebastian/comparator" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/sebastian/diff" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/sebastian/environment" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/sebastian/exporter" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/sebastian/global-state" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/sebastian/recursion-context" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/sebastian/version" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/squizlabs/php_codesniffer" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/symfony/cache" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/symfony/config" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/symfony/console" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/symfony/debug" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/symfony/event-dispatcher" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/symfony/expression-language" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/symfony/filesystem" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/symfony/polyfill-mbstring" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/symfony/process" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/symfony/stopwatch" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/symfony/yaml" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/tecnickcom/tcpdf" />
+          <root url="file://$MODULE_DIR$/../../phpmyadmin/vendor/webmozart/assert" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>

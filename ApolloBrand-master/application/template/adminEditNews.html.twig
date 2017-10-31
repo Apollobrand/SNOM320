@@ -1,0 +1,36 @@
+{% require '../template/adminHead.html' %}
+<body>
+{% require '../template/adminNavbar.html.twig' %}
+
+<!-- Main content -->
+<section class="container-fluid">
+    <div class="admin-CaNe-info">
+        <h1>General info</h1>
+        <form action="../handler/newsHandler.php" method="post">
+            <div class="row-md-4">
+                <div class="row-md-2"><h3>Nyheds Overskrift:</h3></div>
+                <div class="row-md-2"><input type="text" name="news-headline" title="news-headline"></div>
+            </div>
+            <div class="row-md-4">
+                <div class="row-md-2"><h3>Kategori:</h3></div>
+                <div class="row-md-2"><input type="radio" name="news-cat-history" title="news-cat-history">Nyheds Historie</div>
+                <div class="row-md-2"><input type="radio" name="news-cat-product" title="news-cat-product">Nyt produkt</div>
+            </div>
+            <div class="row-md-4">
+                <div class="row-md-2"><h3>Forfatter:</h3></div>
+                <div class="row-md-2"><input type="text" name="Auther-name" title="Author-name"></div>
+            </div>
+        </form>
+    </div>
+    <div class="admin-CaNe-text">
+        <h1>Artikel</h1>
+        <form action="../handler/newsHandler.php">
+            <div class="col-12-md"><input type="text" name="news-article" title="news-title"></div>
+        </form>
+    </div>
+
+</section>
+<!-- MAIN CONTENT END -->
+
+{% require '../template/adminFooter.html' %}
+</body>

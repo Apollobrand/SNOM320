@@ -1,0 +1,39 @@
+header {
+    padding: 5px 0;
+}
+
+header img {
+    border: 1px solid;
+    height: 100px;
+    width: auto;
+    padding: 2px 5px;
+}
+
+header h1 {
+    font-weight: 700;
+    margin: 0;
+}
+
+header p {
+    padding: 0 20px;
+    margin: 0;
+}
+
+footer {
+    background-color: #ff8c00;
+    color: #ffffff;
+    font-size: 12px;
+    padding: 15px 0;
+    margin-top: 50px;
+    /*position: absolute;*/
+}
+
+footer .col-sm-4 {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+}
+
+footer .fa {
+    margin-top: 10px;
+}

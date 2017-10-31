@@ -1,0 +1,72 @@
+{% include 'head.html' %}
+<body>
+{% include 'navbar.html.twig' %}
+
+<!-- Introduction to page content -->
+<div class="jumbotron">
+    <div class="container">
+        <h1>Brandpumper</h1>
+    </div>
+</div>
+
+<!-- Page content -->
+<section class="container-fluid">
+    <div class="col-md-3"></div>
+    <div class="col-md-3"></div>
+    <div class="col-md-3"></div>
+    <div class="col-md-3">
+        <span class="list-style-buttons">
+            <a id="listButton" class="switcher active"><i class="fa fa-bars fa-2x" aria-hidden="true"></i></a>
+            <a id="gridButton" class="switcher"><i class="fa fa-th fa-2x" aria-hidden="true"></i></a>
+        </span>
+    </div>
+</section>
+
+<!-- Listview -->
+<section id="listView">
+    <div class="container-fluid">
+        {% for i in forProducts %}
+            <div class="row-md-10">
+                <a class="col-md-12" href="{{ i.productSource }}">
+                    <figure class="col-md-2">
+                        <img src="{{ i.productImage }}">
+                    </figure>
+                    <section>
+                        <div class="col-md-8">
+                            <h3>{{ i.productTitle }}</h3>
+                            <p>Varenummer: {{ i.productSerial }}</p>
+                            Data: <span>10 meter</span>
+                            <br>Data: <span>10 meter</span>
+                        </div>
+                    </section>
+                </a>
+            </div>
+        {% endfor %}
+    </div>
+</section>
+
+<!-- Gridview -->
+<section id="gridView" class="gridView">
+    <div class="container-fluid allando-card">
+        <div class="row">
+            {% for i in forProduct %}
+                <div class="col-md-3">
+                    <a href="{{  i.productSource }}" class="btn">
+                        <div class="card">
+                            <div class="card-block">
+                                <h3>{{ i.productTitle }}</h3>
+                                <p>{{ i.productSerial }}</p>
+                            </div>
+                            <div class="card-img-bottom">
+                                <img src="{{ i.productImage }}" alt="caseOne" title="caseOne"/>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
+{% include 'footer.html' %}
+</body>
