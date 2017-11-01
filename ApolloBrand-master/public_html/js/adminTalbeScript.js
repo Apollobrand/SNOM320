@@ -1,3 +1,6 @@
+/*
+ */
+
 $(document).ready(function () {
     var s_id = '#spec-table';
     var s_th = $('#spec-table th');
@@ -98,12 +101,6 @@ function addToTable(selector, appender) {
 function deleteFromTable() {
     // todo:Deletes a column from it's parent table
 }
-
-
-
-
-
-
 
 /*
 function addRows(selector) {
